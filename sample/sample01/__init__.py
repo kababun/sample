@@ -1,1 +1,2 @@
-print("ここはsample01です。")
+for i in range (10) :
+    print(i)
